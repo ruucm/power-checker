@@ -2,8 +2,6 @@
 
 Real-time power & battery monitoring CLI for macOS.
 
-![demo](https://github.com/ruucm/power-checker/raw/main/demo.png)
-
 ```
 ⚡ Power Checker                        [Live] 2s refresh
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
